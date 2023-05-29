@@ -1,10 +1,10 @@
 # automator-and-shortcuts
 A collection of Automator and Shortcuts scripts that I have made to speed up tasks.
 
-## Compress
+## Compress
 Create a zip of the selected files/folders
 
-## Create New File
+## Create New File
 Creates a blank file in the current dir. Add a file extension and fill with data.
 
 ## Reset Time
